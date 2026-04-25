@@ -1,6 +1,6 @@
 # Churn-Prediction-for-Telecom-Companies
 Predictive Analytics Project - Telecom Churn Prediction using XGBoost, Random Forest, and SHAP
-# 🛠️ Member 1: Data Engineering & Statistical Insights
+# Member 1: Data Engineering & Statistical Insights
 **Portion:** Data Preprocessing, Exploratory Data Analysis (EDA), and Class Balancing (SMOTE).
 
 This branch contains the specialized pipeline responsible for transforming raw telecom data into a balanced, high-quality training set for predictive modeling.
